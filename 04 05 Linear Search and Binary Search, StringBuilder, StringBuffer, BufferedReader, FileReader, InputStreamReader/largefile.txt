@@ -1,0 +1,4 @@
+Hello
+This is a test.
+Java is cool!
+Java is programming language.
